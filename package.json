@@ -16,7 +16,7 @@
         "@react-navigation/stack": "^5.2.3",
         "jetifier": "^1.6.5",
         "react": "16.9.0",
-        "react-native": "0.61.5",
+        "react-native": "0.62.3",
         "react-native-background-timer": "^2.2.0",
         "react-native-directory-picker": "git+https://github.com/lokdevp/react-native-directory-picker.git",
         "react-native-fs": "^2.16.6",
